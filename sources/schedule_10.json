@@ -65,7 +65,7 @@
     ],
     "3": [
         {
-            "seat": 5,
+            "seat": 1,
             "first": 8,
             "second": 6,
             "trail": ""
@@ -89,7 +89,7 @@
             "trail": ""
         },
         {
-            "seat": 1,
+            "seat": 5,
             "first": 10,
             "second": 1,
             "trail": ""
