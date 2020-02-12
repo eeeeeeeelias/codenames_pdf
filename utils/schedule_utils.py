@@ -4,7 +4,7 @@ from .common_utils import get_match_info
 
 SCHEDULE_HEADER = ('Тур', 'Соперники', 'Стол', 'Первый ход')
 GROUP_SEATS_NUMBER = 5
-BREAK_ROW = (pylatex.MultiColumn(4, data='ПЕРЕРЫВ! Время чилить и флексить'),)
+BREAK_ROW = (pylatex.MultiColumn(4, data='Перерыв 15 минут! Время чилить и флексить'),)
 
 
 def compile_seat_name(group_name: str, seat_id: int) -> str:
